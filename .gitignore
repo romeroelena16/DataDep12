@@ -1,4 +1,4 @@
 # created by virtualenv automatically
 *.pyc
 __pycache__/
-myenv12/
+myenv12
